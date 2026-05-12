@@ -14,5 +14,5 @@ media(valores)
 # Calculamos un promedio de valores
 # Ejemplo 2 
 
-valores2 <- rnorm(1000, 1, 1)
+valores2 <- rnorm(100, 2, 1)
 media(valores2)
